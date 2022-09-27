@@ -1,7 +1,8 @@
 ﻿int a = 2;
-int n = 20;
+int n = 10;
 
 while (a <= n)
 {
-    a = a + 2
+    Console.WriteLine(a);
+    a = a + 2;
 }
