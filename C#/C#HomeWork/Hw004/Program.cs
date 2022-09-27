@@ -1,9 +1,7 @@
-﻿int a = 5;
-if(a % 2 == 0)
+﻿int a = 2;
+int n = 20;
+
+while (a <= n)
 {
-Console.WriteLine("yes");
-}
-else
-{
-Console.WriteLine("No");
+    a = a + 2
 }
